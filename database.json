@@ -1,0 +1,50 @@
+{
+  "users": {
+    "62882008961541@s.whatsapp.net": {
+      "registered": false,
+      "nick": "62882008961541@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 1000,
+      "premium": "true",
+      "afkTime": -1,
+      "lastclaim": 1732027280285,
+      "regTime": -1
+    },
+    "6289668164759@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289668164759@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 1000,
+      "premium": "true",
+      "afkTime": -1,
+      "lastclaim": 1732027744565,
+      "regTime": -1
+    }
+  },
+  "chats": {
+    "62882008961541@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6289668164759@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    }
+  },
+  "game": {},
+  "settings": {
+    "62882008961541@s.whatsapp.net": {
+      "autobio": false
+    },
+    "hadiah": [],
+    "hadiahkadaluwarsa": []
+  },
+  "database": {},
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}
